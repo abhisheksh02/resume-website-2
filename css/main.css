@@ -2020,32 +2020,6 @@ header .logo a {
 	transform: translateY(-100%);
 }
 
-/**
- * ===================================================================
- * 14. call-to-action section - (_layout.scss)
- *
- * -------------------------------------------------------------------
- */
-#cta {
-	padding-top: 10.2rem;
-	padding-bottom: 9rem;
-	text-align: center;
-}
-#cta p.lead {
-	color: #6e6e6e;
-}
-.cta-content {
-	max-width: 640px;
-}
-.cta-thumb {
-	display: inline-block;
-	margin-bottom: 1.2rem;
-}
-.cta-thumb img {
-	height: 7.8rem;
-	width: 7.8rem;
-	border-radius: 50%;
-}
 
 /**
  * section ads - (_layout.scss)
@@ -2071,20 +2045,6 @@ header .logo a {
 }
 .section-ads span {
 	color: #3F0D39;
-}
-
-/**
- * responsive:
- * cta
- * -------------------------------------------------------------------
- */
-@media only screen and (max-width:650px) {
-	.cta-content {
-		max-width: 650px;
-	}
-	.cta-content h2 {
-		font-size: 2.4rem;
-	}
 }
 
 
