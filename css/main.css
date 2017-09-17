@@ -82,7 +82,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus, a:active {
-	color: #0099ff;
+	color: #ffaa00;
 	outline: 0;
 }
 
@@ -293,7 +293,7 @@ ul.disc li::before {
 	width: 8px;
 	height: 8px;
 	border-radius: 50%;
-	background: #0099ff;
+	background: #ffaa00;
 	position: absolute;
 	left: -17px;
 	top: 11px;
@@ -301,7 +301,7 @@ ul.disc li::before {
 }
 dt {
 	margin: 0;
-	color: #0099ff;
+	color: #ffaa00;
 }
 dd {
 	margin: 0 0 0 2rem;
@@ -421,7 +421,7 @@ img.pull-left {
 	display: none;
 }
 .pace .pace-progress {
-	background: #0099ff;
+	background: #ffaa00;
 	position: fixed;
 	z-index: 900;
 	top: 0;
@@ -464,7 +464,7 @@ img.pull-left {
 	border-top: 11px solid rgba(255, 255, 255, 0.1);
 	border-right: 11px solid rgba(255, 255, 255, 0.1);
 	border-bottom: 11px solid rgba(255, 255, 255, 0.1);
-	border-left: 11px solid #0099ff;
+	border-left: 11px solid #ffaa00;
 	-webkit-animation: load 1.1s infinite linear;
 	animation: load 1.1s infinite linear;
 	display: block;
@@ -611,8 +611,8 @@ button.stroke.large, .button.stroke.large {
 	line-height: 5.4rem !important;
 }
 button.stroke:hover, .button.stroke:hover {
-	border: 3px solid #0099ff;
-	color: #0099ff;
+	border: 3px solid #ffaa00;
+	color: #ffaa00;
 }
 button::-moz-focus-inner, input::-moz-focus-inner {
 	border: 0;
@@ -766,7 +766,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: #252525;
 }
 .stats-tabs li a:hover {
-	color: #0099ff;
+	color: #ffaa00;
 }
 .stats-tabs li a em {
 	display: block;
@@ -882,7 +882,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-	color: #0099ff;
+	color: #ffaa00;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
@@ -979,7 +979,7 @@ header .logo a {
 }
 .menu-toggle span {
 	display: block;
-	background-color: #0099ff;
+	background-color: #ffaa00;
 	width: 24px;
 	height: 3px;
 	margin-top: -1.5px;
@@ -1037,7 +1037,7 @@ header .logo a {
 	background-color: rgba(255, 0, 119, 0);
 }
 .menu-toggle.is-clicked span::before, .menu-toggle.is-clicked span::after {
-	background-color: #0099ff;
+	background-color: #ffaa00;
 	-moz-transition-delay: 0s, 0.2s;
 	-o-transition-delay: 0s, 0.2s;
 	-webkit-transition-delay: 0s, 0.2s;
@@ -1093,12 +1093,12 @@ header .logo a {
 	border: none;
 }
 .main-navigation li a:hover {
-	color: #0099ff;
+	color: #ffaa00;
 	padding-left: 1rem;
 }
 .main-navigation li.current > a {
 	background: none;
-	color: #0099ff;
+	color: #ffaa00;
 }
 
 /**
@@ -1178,7 +1178,7 @@ header .logo a {
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 .intro-content h5 {
-	color: #007bce;
+	color: #ce8900;
 	font-family: "poppins-bold", sans-serif;
 	font-size: 2.3rem;
 	line-height: 1.565;
@@ -1225,7 +1225,7 @@ header .logo a {
 	letter-spacing: .25rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
-	border-color: #007bce;
+	border-color: #ce8900;
 }
 .intro-content .button::after {
 	display: inline-block;
@@ -1257,7 +1257,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 .intro-social li a:hover, .intro-social li a:focus {
-	color: #007bce;
+	color: #ce8900;
 }
 
 /**
@@ -1470,7 +1470,7 @@ header .logo a {
 	text-align: center;
 }
 #resume .resume-header h2 {
-	color: #0099ff;
+	color: #ffaa00;
 }
 
 #resume .resume-timeline {
@@ -1797,7 +1797,7 @@ header .logo a {
 	border-right: 1px solid rgba(200, 200, 200, 0.1);
 }
 .popup-modal .link-box a:hover {
-	background: #007bce;
+	background: #ce8900;
 	border: none;
 }
 @media only screen and (max-width:600px) {
@@ -1904,7 +1904,7 @@ header .logo a {
 	color: white;
 }
 #contact .section-intro h5 {
-	color: #0099ff;
+	color: #ffaa00;
 }
 #contact .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
@@ -1927,7 +1927,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 .contact-info h5 {
-	color: #0099ff;
+	color: #ffaa00;
 }
 
 /**
@@ -2001,7 +2001,7 @@ footer a, footer a:visited {
 	color: #FFFFFF;
 }
 footer a:hover, footer a:focus {
-	color: #0099ff;
+	color: #ffaa00;
 }
 footer .row {
 	max-width: 900px;
@@ -2080,7 +2080,7 @@ footer .copyright span:last-child::after {
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
-	background: #007bce;
+	background: #ce8900;
 	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
