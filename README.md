@@ -1,3 +1,3 @@
-# personal-website-1
+# Personal Website
 This is a personal website made from a simple template
 Credit: www.styleshout.com
